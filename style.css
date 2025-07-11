@@ -277,13 +277,11 @@
             transition: all 0.5s ease-in;
             border: 2px solid white;
             box-shadow: 0 0 5px white;
-            animation :logo 2s ease-in-out  infinite ;
         }
         .icon-img:hover{
             transform: scale(1.05);
             box-shadow: 0 0 10px blue;
             background-color: blue;
-            animation: logo 0s ease; 
         }
         .icon-container{
             display: flex;
